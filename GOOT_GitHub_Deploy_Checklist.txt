@@ -1,0 +1,23 @@
+GOOT RESORTS — GITHUB + ONLINE DEMO
+
+[ ] Put the COMPLETE GOOT project in one GitHub repository
+[ ] Add render.yaml to repository root
+[ ] Add .env.example
+[ ] Add .gitignore protections
+[ ] Do NOT upload .env or real secrets
+[ ] Push to GitHub
+[ ] Render → New → Blueprint
+[ ] Connect GitHub repository
+[ ] Deploy the Blueprint
+[ ] Set a NEW demo ADMIN_KEY
+[ ] Copy the Render URL
+[ ] Set ALLOWED_ORIGINS to that URL
+[ ] Redeploy
+[ ] Test /api/health
+[ ] Test homepage
+[ ] Test /admin.html
+[ ] Test booking creation
+[ ] Test cancellation/deletion
+[ ] Test reports/revenue
+[ ] Add the final public URL to the sales preview
+[ ] Send the buyer the sales preview + demo URL
